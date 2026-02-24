@@ -1,14 +1,23 @@
 ﻿using ScreenSound;
 
-/*
-var cb = new ContaBancaria();
-cb.MostrarInformacoes();
-var v = new Veiculo();
+
+
+ContaBancaria pessoa1 = new ContaBancaria();
+pessoa1.Id = "1";
+pessoa1.Titular = "Leonardo";
+pessoa1.Saldo = 554.55;
+pessoa1.Senha = 123;
+
+Console.WriteLine(pessoa1.Id);
+
+
+
+/*var v = new Veiculo();
 v.MenuAcao();
 v.Acelerar();
 v.Frear();
 v.Buzinar();
-*/
+
 
 var song = new List<Musica>();
 
@@ -28,8 +37,5 @@ m2.Nome = "The trooper";
 m2.Artista = "Iron Maiden";
 m2.Duracao = 280;
 //m2.InserirMusica();
-m2.ExibirFichaTecnica();
+m2.ExibirFichaTecnica();*/
 
-
-Console.WriteLine("Press any key to exit...");
-Console.ReadKey();
