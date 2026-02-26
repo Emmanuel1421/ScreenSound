@@ -1,6 +1,39 @@
 ﻿using AluraList;
 
+Album album1 = new Album("album a");
 
+
+Banda queen = new Banda("Queen");
+
+
+queen.AdicionarAlbum(album1);
+queen.ExibirDiscografia();
+
+
+Musica musica1 = new Musica(queen, "musicaa")
+{
+    Duracao = 200,
+    Disponivel = true,
+};
+
+Musica musica2 = new Musica(queen, "musicab")
+{
+    Duracao = 200,
+    Disponivel = false,
+};
+
+musica1.ExibirFichaTecnica();
+
+album1.AdicionarMusica(musica1);
+album1.AdicionarMusica(musica2);
+
+album1.ExibirMusicasAlbum();
+
+queen.AdicionarAlbum(album1);
+queen.ExibirDiscografia();
+Console.ReadKey();
+
+/*
 Random random = new Random();
 int numeroAleatorio = random.Next(1, 99999);
 double limiteAleatorio = random.Next(400, 1000);
@@ -18,28 +51,6 @@ conta1.Senha = 4321;
 conta1.Limite = limiteAleatorio;
 conta1.ApresentacaoConta();
 
-
-
-
-/*
-Album album1 = new Album();
-album1.NomeAlbum = "album a";
-
-Musica musica1 = new Musica();
-musica1.Nome = "musica a";
-musica1.Duracao = 200;
-
-Musica musica2 = new Musica();
-musica2.Nome = "musica b";
-musica2.Duracao = 165;
-
-album1.AdicionarMusica(musica1);
-album1.AdicionarMusica(musica2);
-
-album1.ExibirAlbum();
-*/
-
-/*
 var tst = new Teste();
 
 int result = tst.Somar(5, 10);
