@@ -1,0 +1,15 @@
+C:\Users\sieg\source\repos\GithubAlura\GithubAlura\bin\Debug\net10.0\GithubAlura.exe
+C:\Users\sieg\source\repos\GithubAlura\GithubAlura\bin\Debug\net10.0\GithubAlura.deps.json
+C:\Users\sieg\source\repos\GithubAlura\GithubAlura\bin\Debug\net10.0\GithubAlura.runtimeconfig.json
+C:\Users\sieg\source\repos\GithubAlura\GithubAlura\bin\Debug\net10.0\GithubAlura.dll
+C:\Users\sieg\source\repos\GithubAlura\GithubAlura\bin\Debug\net10.0\GithubAlura.pdb
+C:\Users\sieg\source\repos\GithubAlura\GithubAlura\obj\Debug\net10.0\GithubAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sieg\source\repos\GithubAlura\GithubAlura\obj\Debug\net10.0\GithubAlura.AssemblyInfoInputs.cache
+C:\Users\sieg\source\repos\GithubAlura\GithubAlura\obj\Debug\net10.0\GithubAlura.AssemblyInfo.cs
+C:\Users\sieg\source\repos\GithubAlura\GithubAlura\obj\Debug\net10.0\GithubAlura.csproj.CoreCompileInputs.cache
+C:\Users\sieg\source\repos\GithubAlura\GithubAlura\obj\Debug\net10.0\GithubAlura.sourcelink.json
+C:\Users\sieg\source\repos\GithubAlura\GithubAlura\obj\Debug\net10.0\GithubAlura.dll
+C:\Users\sieg\source\repos\GithubAlura\GithubAlura\obj\Debug\net10.0\refint\GithubAlura.dll
+C:\Users\sieg\source\repos\GithubAlura\GithubAlura\obj\Debug\net10.0\GithubAlura.pdb
+C:\Users\sieg\source\repos\GithubAlura\GithubAlura\obj\Debug\net10.0\GithubAlura.genruntimeconfig.cache
+C:\Users\sieg\source\repos\GithubAlura\GithubAlura\obj\Debug\net10.0\ref\GithubAlura.dll
