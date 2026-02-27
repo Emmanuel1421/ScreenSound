@@ -31,7 +31,7 @@ public class Program
             Console.Write("Digite o duracao do episódio:");
             double duracao = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Quantos episodios o episodio tem?");
+            Console.WriteLine("Quantos convidados o episodio tem?");
             qtdConv = int.Parse(Console.ReadLine());
             for (i = 0; i < qtdConv; i++) 
             {

@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="Filmes/Alura.csproj" />
+  <Project Path="ScreenSound/ScreenSound.csproj" />
   <Project Path="ScreenSoundDesafio/ScreenSoundDesafio.csproj" />
 </Solution>
